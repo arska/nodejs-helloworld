@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "example hello world node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Aarno Aukia <aarno.aukia@vshn.ch>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arska/nodejs-helloworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arska/nodejs-helloworld/issues"
+  },
+  "homepage": "https://github.com/arska/nodejs-helloworld#readme"
+}
